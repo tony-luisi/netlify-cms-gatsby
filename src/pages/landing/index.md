@@ -1,4 +1,5 @@
 ---
-templateKey: 'landing-page'
-title: This Works!
+templateKey: landing-page
+title: This Works
 ---
+
